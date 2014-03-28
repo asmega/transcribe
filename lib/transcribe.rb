@@ -1,5 +1,5 @@
 require "transcribe/version"
 
 module Transcribe
-  # Your code goes here...
+  require 'transcribe/transcriber'
 end

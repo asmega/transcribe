@@ -1,0 +1,8 @@
+en:
+  helpers:
+    label:
+      repayment:
+        price: Price of the property is
+        deposit: Deposit available is
+        term_years: Mortgage term is
+        interest_rate: Interest rate is
